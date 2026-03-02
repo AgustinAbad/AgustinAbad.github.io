@@ -73,7 +73,6 @@ body{
 
 /* sidebar */
 #sidebar{
-    position:fixed;
     top:50%;
     left:20px;
     transform:translateY(-50%);
